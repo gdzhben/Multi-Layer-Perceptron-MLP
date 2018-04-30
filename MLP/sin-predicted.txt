@@ -1,0 +1,33 @@
+Predicted:	-0.911970
+Output:		-0.843484
+
+Predicted:	-0.938005
+Output:		-0.998523
+
+Predicted:	-0.095018
+Output:		-0.989006
+
+Predicted:	0.668565
+Output:		0.964356
+
+Predicted:	-0.895509
+Output:		-0.670269
+
+Predicted:	-0.136074
+Output:		-0.091641
+
+Predicted:	0.875476
+Output:		0.414882
+
+Predicted:	0.655718
+Output:		0.434003
+
+Predicted:	-0.332312
+Output:		-0.825444
+
+Predicted:	-0.969740
+Output:		-0.825092
+
+Error at 100000 is 0.000877215494
+Perdicted Error is 0.736586984312
+BUILD SUCCESSFUL (total time: 40 seconds)

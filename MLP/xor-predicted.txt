@@ -1,0 +1,14 @@
+Predicted:	0.006316
+Output:		0.000000
+
+Predicted:	0.700259
+Output:		1.000000
+
+Predicted:	0.495663
+Output:		1.000000
+
+Predicted:	0.495780
+Output:		0.000000
+
+Error at 100000 is 0.303921502941
+Perdicted Error is 0.499498423729
